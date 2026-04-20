@@ -58,7 +58,7 @@ El proyecto documenta tanto la configuración como la evidencia de funcionamient
 
 Este repositorio incluye la documentación completa del proyecto en formato PDF:
 
-- [Ver documentación completa](./suricata-documentacion.pdf)
+- [Ver documentación completa](./Suricata-documentacion.pdf)
 
 ## Tecnologías utilizadas
 
