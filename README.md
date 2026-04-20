@@ -58,7 +58,7 @@ El proyecto documenta tanto la configuración como la evidencia de funcionamient
 
 Este repositorio incluye la documentación completa del proyecto en formato PDF:
 
-- [Ver documentación completa](./documentacion_suricata_homelab_daniela_h.pdf)
+- [Ver documentación completa](./suricata-documentacion.pdf)
 
 ## Tecnologías utilizadas
 
